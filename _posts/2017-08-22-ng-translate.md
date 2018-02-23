@@ -2,7 +2,7 @@
 layout: post
 title: Angular国际化方案(ngx-translate)
 date: 2017-08-22
-tags: [JavaScript]
+tags: [Angular]
 ---
 * auto-gen TOC:
 {:toc}
