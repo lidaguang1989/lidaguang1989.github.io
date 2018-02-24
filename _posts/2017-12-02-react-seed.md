@@ -11,14 +11,14 @@ tags: [React]
 ### 技术选型
 参考范围大致三种：AngularJS，Angular，React。
 
-对于那些使用Angular不是太久的人来说，可能会有些蒙圈，AngularJS和Angular不是一个东西吗？
+这里可能会有些困惑，AngularJS和Angular不是一个东西吗？
 
 没错，它们是一个东西，但也不是一个东西。好了，废话少说，首先说明一下AngularJS和Angular的区别。
 
 引用官方文档中的一句话
 > Angular is the name for the Angular of today and tomorrow. AngularJS is the name for all v1.x versions of Angular.
 
-这回很清晰了。
+即
 
 **Angular：指的是 v2.x 及以后的版本**
 
@@ -73,7 +73,7 @@ npm run eject
 ```
 
 创建好的项目目录如下：
-![](/images/posts/react-seed/1-1.png)
+![](https://user-gold-cdn.xitu.io/2018/2/23/161c20d03c41739f?w=237&h=464&f=png&s=13565)
 
 **5. 本地服务启动**
 ```
@@ -95,7 +95,7 @@ npm install redux-thunk@2.1.0 --save
 npm install react-redux@5.0.6 --save
 ```
 然后就可以在项目中引入redux了，可以像如下方式组织目录结构：
-![](/images/posts/react-seed/1-2.png)
+![](https://user-gold-cdn.xitu.io/2018/2/23/161c20de48e6f531?w=180&h=282&f=png&s=5524)
 
 ### 路由集成
 [react-router](http://react-guide.github.io/react-router-cn/docs/API.html)
@@ -200,7 +200,7 @@ npm run build
 serve -s build
 ```
 
-注意：如果项目中引入路由的时候使用的是BrowserRouter,
+<div style="color:red;">注意：</div>如果项目中引入路由的时候使用的是BrowserRouter,
 那么当执行npm run build打包之后，本地打开index.html文件，会出现空白页面。
 
 原因是BrowserRouter是用浏览器history对象的方法去请求服务器，
@@ -213,6 +213,8 @@ BrowserRouter会变成类似这样的路径  http://111.230.139.105:3001/detail/
 
 
 _____________________________________________________________________
+<div style="margin-top: 5%; font-size: 18px">
 项目源码已经开源到github上，喜欢的给个Star支持下吧！（^_^）
-
+</div>
 [react-seed](https://github.com/lidaguang1989/react-seed.git)
+
