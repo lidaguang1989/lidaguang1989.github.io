@@ -8,7 +8,7 @@ bundle exec jekyll serve
 ```
 然后在浏览器打开以下链接就可以访问了：
 
-[http://localhost:4000/](http://localhost:4000/)
+http://localhost:4000
 
 
 
