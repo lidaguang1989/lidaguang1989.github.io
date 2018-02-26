@@ -35,5 +35,8 @@
 
 [http://blog.csdn.net/ljinddlj/article/details/52273652](http://blog.csdn.net/ljinddlj/article/details/52273652)
 
+### 访问量统计
+
+[http://busuanzi.ibruce.info/](http://busuanzi.ibruce.info/)
 
 ## 如果你喜欢，别忘了给个Star支持一下哦。
