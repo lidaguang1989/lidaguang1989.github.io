@@ -44,5 +44,4 @@ tags: [技术杂谈]
 [http://busuanzi.ibruce.info/](http://busuanzi.ibruce.info/)
 
 
-## 这是我的个人博客[repository](https://github.com/lidaguang1989/lidaguang1989.github.io),
-如果你也喜欢，欢迎作为主题模板使用，别忘了给个Star支持一下哦。
+## 这是我的个人博客[repository](https://github.com/lidaguang1989/lidaguang1989.github.io)。
