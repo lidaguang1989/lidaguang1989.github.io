@@ -1,6 +1,7 @@
 此博客 fork 自 [leopardpan](https://github.com/leopardpan/leopardpan.github.io/ "leopardpan")，感谢。
 
 [个人博客](https://lidaguang1989.github.io)
+
 临近年尾，实在无心工作，逛着论坛突然灵光一闪，人家的个人博客是怎么弄出来的？突然就来了兴致，打算研究一二。
 
 过程到没费太多周折，用了一天左右就弄了个大概的雏形，主要是基于GitHub Page + Jekyll。以下是我参考收藏的一些教程链接。
