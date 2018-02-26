@@ -1,12 +1,16 @@
-此博客 fork 自 [leopardpan](https://github.com/leopardpan/leopardpan.github.io/ "leopardpan")，感谢。
+## 如果你也喜欢这个模板，欢迎使用，但别忘了给个Star支持一下哦。
 
 [个人博客](https://lidaguang1989.github.io)
 
-临近年尾，实在无心工作，逛着论坛突然灵光一闪，人家的个人博客是怎么弄出来的？突然就来了兴致，打算研究一二。
+### 本地启动
+```
+bundle exec jekyll serve
+```
+然后在浏览器打开以下链接就可以访问了：
 
-过程到没费太多周折，用了一天左右就弄了个大概的雏形，主要是基于GitHub Page + Jekyll。以下是我参考收藏的一些教程链接。
+http://localhost:4000
 
-这年头最苦恼的就是有用信息的过滤。
+
 
 如果你用的是Linux系统或者Mac那么恭喜你，可以省去一些环境的配置。而如果你是Windows系统，下面这个链接教程还是建议你看一下。
 
@@ -39,4 +43,5 @@
 
 [http://busuanzi.ibruce.info/](http://busuanzi.ibruce.info/)
 
-## 如果你喜欢，别忘了给个Star支持一下哦。
+
+此博客 fork 自 [leopardpan](https://github.com/leopardpan/leopardpan.github.io/ "leopardpan")，感谢。
