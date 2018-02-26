@@ -1,4 +1,4 @@
-此博客 fork 自 [leopardpan](https://github.com/leopardpan/leopardpan.github.io/ "leopardpan")，感谢。
+## 如果你也喜欢这个模板，欢迎使用，但别忘了给个Star支持一下哦。
 
 [个人博客](https://lidaguang1989.github.io)
 
@@ -43,4 +43,5 @@ http://localhost:4000
 
 [http://busuanzi.ibruce.info/](http://busuanzi.ibruce.info/)
 
-## 如果你喜欢，别忘了给个Star支持一下哦。
+
+此博客 fork 自 [leopardpan](https://github.com/leopardpan/leopardpan.github.io/ "leopardpan")，感谢。
