@@ -1,6 +1,6 @@
 ---
 layout: post
-title: React入门-从项目搭建到部署
+title: React模板-从项目搭建到部署
 date: 2017-12-02
 tags: [React]
 ---
