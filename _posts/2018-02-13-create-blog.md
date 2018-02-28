@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 如何创建个人博客
+title: 如何创建个人博客(GitHub Page + Jekyll)
 date: 2018-02-13
 tags: [技术杂谈]
 ---
