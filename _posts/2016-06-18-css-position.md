@@ -20,3 +20,47 @@ tags: [CSS]
 
 ### Fixed
 绝对定位方式，直接以浏览器窗口作为参考进行定位。其它特性同absolute定位。
+
+小结论：
+
+1. 对于使用position:relative的子类元素而言，width:100%也始终是基于基父级元素而并不会基于其上层元素中的relative。
+2. 对于绝对定位的子无素，要是其外层的所有元素中都没有用position:relative，则width:100%是基于body，否则就是离基最近的一个position:relative的元素。
+3. 对于position:fixed的元素，其一直是基于body,所以其宽度100%就是基于body。
+```
+<html>
+<style>
+	.home{
+		background: red;
+		height: 350px;
+		width: 500px;
+	}
+	
+	.parent{
+		width: 100%;
+		background: blue;
+		height: 100px;
+		padding: 10px;
+		margin: 10px;
+		border: 5px solid;
+		position: relative;
+	}
+	
+	.child{
+		width: 100%;
+		background: grey;
+		height: 50%;
+		position: absolute;
+	}
+</style>
+
+<body>
+	<div class="top">
+		<div class="home">home
+			<div class="parent">parent
+				<div class="child">child</div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
+```
