@@ -200,16 +200,4 @@ z-index
 Browser DevTools使得你可以直接在页面中实时编辑修改而无需重新加载代码。
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-译自：[https://flaviocopes.com/css-transitions](https://flaviocopes.com/css-transitions/)
+原文：[https://flaviocopes.com/css-transitions](https://flaviocopes.com/css-transitions/)

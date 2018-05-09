@@ -5,4 +5,4 @@ date: 2016-05-21
 tags: [技术杂谈]
 ---
 
-![](/images/posts/optimization/1-1.jpg)
+![](/images/posts/interview/1-3.png)
