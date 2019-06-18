@@ -565,7 +565,7 @@ obj instanceof Object: 左操作数是一个对象，右操作数是一个函数
     this === window ? 'browser' : 'node';
 
 ### Canvas和SVG的比较
-![](./images/posts/interview/canvas_vs_svg.jpg)
+![](../images/posts/interview/canvas_vs_svg.jpg)
 
 - https://www.educba.com/svg-vs-canvas/
 
@@ -575,7 +575,7 @@ obj instanceof Object: 左操作数是一个对象，右操作数是一个函数
  - http://www.cnblogs.com/jackson0714/p/AJAX.html#_label8
 
 ### JS事件委托、事件冒泡
-![](./images/posts/interview/event.jpg)
+![](../images/posts/interview/event.jpg)
 
 - https://www.cnblogs.com/owenChen/archive/2013/02/18/2915521.html
 
@@ -595,7 +595,7 @@ obj instanceof Object: 左操作数是一个对象，右操作数是一个函数
  - **引用数据类型与堆内存**  
     与其他语言不同，JS的引用数据类型，比如数组Array、对象Object、函数Function，它们值的大小是不固定的。引用数据类型的值是保存在堆内存中的对象。JavaScript不允许直接访问堆内存中的位置，因此我们不能直接操作对象的堆内存空间。
     
-    ![](./images/posts/interview/stack_heap.png)
+    ![](../images/posts/interview/stack_heap.png)
 
     在操作对象时，实际上是在操作对象的引用而不是实际的对象。因此，引用类型的值都是按引用访问的。这里的引用，我们可以粗浅地理解为保存在栈内存中的一个地址，该地址与堆内存的实际值相关联。
 
@@ -733,7 +733,7 @@ obj instanceof Object: 左操作数是一个对象，右操作数是一个函数
 
 ### 前端性能优化方案
 以下是移动端的优化方案，大部分Web端也同样适用
-![](./images/posts/interview/performance.png)
+![](../images/posts/interview/performance.png)
 
 ### 正则表达式
 - https://juejin.im/post/5965943ff265da6c30653879
@@ -770,7 +770,7 @@ obj instanceof Object: 左操作数是一个对象，右操作数是一个函数
 
 ### 浏览器解析流程
 
-![](./images/posts/interview/webkit.png)
+![](../images/posts/interview/webkit.png)
 
  - https://segmentfault.com/a/1190000010298038
 
@@ -871,7 +871,7 @@ http://news.company.com/dir/other.html	| 失败	| 不同域名 ( news和store )|
  - web存储 (locaStorage和seesionStorage)
  - IndexedDB
 
-![](./images/posts/interview/browser_storage.png)
+![](../images/posts/interview/browser_storage.png)
 
 在H5出现之前，数据都是存储在cookie中的。为了解决cookie的局限性引入了Web存储，indexedDB用于客户端存储大量结构化数据(包括, 文件/ blobs)。
 
