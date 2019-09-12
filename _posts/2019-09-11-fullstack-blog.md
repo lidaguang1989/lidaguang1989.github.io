@@ -1,3 +1,10 @@
+---
+layout: post
+title: 全栈开发博客系统(nodejs + vuejs + mongodb)
+date: 2019-09-12
+tags: [全栈]
+---
+
 本篇文章将会介绍如何使用nodejs+vuejs构建个人博客。
 
 主要分三部分内容：
